@@ -13,7 +13,7 @@ Comando **alert sem reaplace** :
 
 Comando **alert** com reaplace:
 
-> console.log(frase.replace("Pizza", "Strogonoff de frango"))
+> console.log(frase.replace("Pizza", "Strogonoff de frango"));
 
 <img src="https://user-images.githubusercontent.com/81439112/142963555-aced8c76-33ea-46fe-b765-9508d98ffc57.png" width="400px" />
 </div> 
