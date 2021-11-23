@@ -3,7 +3,7 @@ Aulas de JavaScript do Bootcamp de JavaScript Game Developer na DIO.
 
 * Durante a primeira aula foi abordado alguns conceito básicos como os comandos alert, var, reaplace e console.log  
 
-Comando **alert sem reaplace** : 
+Comando **alert sem reaplace**: 
 
 > var frase = "Pizza é melhor que lasanha";
 
@@ -13,7 +13,7 @@ Comando **alert sem reaplace** :
 </div> 
 </span>
 
-Comando **alert** com reaplace:
+Comando **alert com reaplace**:
 
 > console.log(frase.replace("Pizza", "Strogonoff de frango"));
 
