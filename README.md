@@ -32,3 +32,5 @@ Comando **console.log** retornando a váriavel nome:
 </span>
 
 ##
+
+* Durante a segunda aula foi abordados os conceitos de Array e Dicionário 
