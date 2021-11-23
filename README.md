@@ -7,6 +7,8 @@ Comando **alert sem reaplace** :
 
 > var frase = "Pizza é melhor que lasanha";
 
+> alert(frase);
+
 <img src="https://user-images.githubusercontent.com/81439112/142964518-bec26c13-552a-4761-95fd-2cbd087bee3f.PNG" width="400px" />
 </div> 
 </span>
@@ -23,7 +25,7 @@ Comando **console.log** retornando a váriavel nome:
 
 > var nome = "Stefhany Santos ";
 
-> alert(frase);
+> console.log(nome);
 
 <img src="https://user-images.githubusercontent.com/81439112/142964940-e28e2371-339d-4a42-8312-9d80e12de174.PNG" width="400px" />
 </div> 
