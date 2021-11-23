@@ -3,7 +3,7 @@ Aulas de JavaScript do Bootcamp de JavaScript Game Developer na DIO.
 
 * Durante a primeira aula foi abordado alguns conceito básicos como os comandos alert, var, reaplace e console.log  
 
-Comando **alert sem reaplace**: 
+Comando **alert**: 
 
 > var frase = "Pizza é melhor que lasanha";
 
