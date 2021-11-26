@@ -1,7 +1,7 @@
 ## 🚀 Introdução ao JavaScript
 Aulas de JavaScript do Bootcamp de JavaScript Game Developer na DIO.
 
-* Durante a primeira aula foi abordado alguns conceito básicos como os comandos alert, var, reaplace e console.log  
+* Durante a primeira aula foi abordado alguns conceito e comandos básicos como o alert, var, reaplace e console.log  
 
 Comando **alert**: 
 
