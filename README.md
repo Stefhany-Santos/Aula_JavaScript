@@ -45,7 +45,7 @@ Criando uma **var lista**:
 </div> 
 </span>
 
-Comando para **adicionar** mais um elemento chamado "uva" a **var lista**:
+Comando para **adicionar** mais um elemento chamado "uva":
 
 > var lista = ["maça", "pera", "laranja"];
 
@@ -57,7 +57,7 @@ Comando para **adicionar** mais um elemento chamado "uva" a **var lista**:
 </div> 
 </span>
 
-Comando que **retira** um elemento que está na **var lista**:
+Comando que **retira** um elemento:
 
 > var lista = ["maça", "pera", "laranja"];
 
@@ -79,7 +79,7 @@ Comando que **mostra a quantidade** de elementos presentes na **var lista**:
 </div> 
 </span>
 
-Comando que mostra os elementos da **var lista ao contário**:
+Comando que mostra os elementos ao **contário**:
 
 > var lista = ["maça", "pera", "laranja"];
 
@@ -89,7 +89,7 @@ Comando que mostra os elementos da **var lista ao contário**:
 </div> 
 </span>
 
-Comando que transformar os elementos da var lista em **string**:
+Comando que transforma os elementos em **string**:
 
 > var lista = ["maça", "pera", "laranja"];
 
