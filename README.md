@@ -79,7 +79,7 @@ Comando que **mostra a quantidade** de elementos presentes na **var lista**:
 </div> 
 </span>
 
-Comando que mostra os elementos ao **contário**:
+Comando que mostra os elementos da lista **ao contário**:
 
 > var lista = ["maça", "pera", "laranja"];
 
@@ -99,7 +99,7 @@ Comando que transforma os elementos em **string**:
 </div> 
 </span>
 
-Comando para substituir **" , " por outro carácter**:
+Comando que substitui a **" , " por outro carácter**:
 
 > var lista = ["maça", "pera", "laranja"];
 
